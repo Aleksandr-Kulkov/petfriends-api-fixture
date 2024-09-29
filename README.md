@@ -1,4 +1,4 @@
-# petfriends-fixture
+# petfriends-fixture-API
 
 Тестирование REST API-сервиса (https://petfriends.skillfactory.ru/apidocs/) веб-приложения PetFriends (https://petfriends.skillfactory.ru/) с использованием pytest (версия 7.4.0).
 
